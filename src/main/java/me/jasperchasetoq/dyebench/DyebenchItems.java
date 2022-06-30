@@ -44,7 +44,7 @@ public class DyebenchItems {
     public static final SlimefunItemStack DB_RED_PIGMENT = new SlimefunItemStack("DB_RED_PIGMENT", Material.RED_DYE, "&d红色染料", "", "&f一个能重复使用的染料", "");
     public static final SlimefunItemStack DB_BLACK_PIGMENT = new SlimefunItemStack("DB_BLACK_PIGMENT", Material.BLACK_DYE, "&d黑色染料", "", "&f一个能重复使用的染料", "");
     //Dyeable Blocks
-    public static final SlimefunItemStack DB_DYEABLE_WOOL = new SlimefunItemStack("DB_DYEABLE_WOOL", Material.WHITE_WOOL, "&d&f羊毛",
+    public static final SlimefunItemStack DB_DYEABLE_WOOL = new SlimefunItemStack("DB_DYEABLE_WOOL", Material.WHITE_WOOL, "&d羊毛",
             "&f你可以用以下颜色为羊毛染色",
             "&6橙色",
             "&d品红色",
