@@ -45,7 +45,7 @@ public class DyebenchItems {
     public static final SlimefunItemStack DB_BLACK_PIGMENT = new SlimefunItemStack("DB_BLACK_PIGMENT", Material.BLACK_DYE, "&dBlack Pigment", "", "&fA reusable Pigment", "");
     //Dyeable Blocks
     public static final SlimefunItemStack DB_DYEABLE_WOOL = new SlimefunItemStack("DB_DYEABLE_WOOL", Material.WHITE_WOOL, "&dfWool",
-            "&fYou can dye wool in the following colors",
+            "&f您可以将羊毛染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
