@@ -22,7 +22,7 @@ public class DyebenchItems {
     public static final SubItemGroup DB_INFO = new SubItemGroup(new NamespacedKey(DyeBench.getInstance(), "DB_INFO"), DB_GENERAL, new CustomItemStack(Material.BOOK, "&bAddon Info"));
 
     public static final ItemGroup DyeBenchGeneral = new ItemGroup(new NamespacedKey(DyeBench.getInstance(), "DyeBench"),
-            new CustomItemStack(Material.LOOM, "&bDyeBench"));
+            new CustomItemStack(Material.LOOM, "&b染色台"));
     
     //machines
     public static final SlimefunItemStack DB_DYEBENCH = new SlimefunItemStack("DB_DYEBENCH", Material.LOOM, "&eDye Bench", "&fDyes items using pigments", LoreBuilder.machine(MachineTier.BASIC, MachineType.MACHINE), LoreBuilder.speed(1), LoreBuilder.powerPerSecond(50));
