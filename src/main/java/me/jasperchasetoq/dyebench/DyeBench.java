@@ -32,7 +32,7 @@ public class DyeBench extends JavaPlugin implements SlimefunAddon {
         }
 
         if (getConfig().getBoolean("options.auto-update") && getDescription().getVersion().startsWith("DEV - ")) {
-            new GitHubBuildsUpdater(this, getFile(), "JasperChaseTOQ/DyeBench/master").start();
+            new GitHubBuildsUpdater(this, getFile(), "translats/DyeBench/master").start();
         }
     }
 

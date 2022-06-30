@@ -59,7 +59,7 @@ public class DyebenchItems {
             "&9Blue",
             "&6Brown",
             "&2Green",
-            "&4Red",
+            "&4红",
             "&0Black");
     //addon info
     public static final SlimefunItemStack DB_MC_VERSION = new SlimefunItemStack("DB_MC_VERSION", Material.BOOK, "&fMinecraft Version", "", "&fWorks on versions 1.17x-1.19x");
