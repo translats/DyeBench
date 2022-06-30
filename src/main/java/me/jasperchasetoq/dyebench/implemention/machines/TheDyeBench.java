@@ -48,7 +48,7 @@ public class TheDyeBench extends AContainer {
 
     @Override
     public String getInventoryTitle() {
-        return "&fDyeBEnch";
+        return "&f染色器";
     }
 
     @Override

@@ -1,6 +1,6 @@
-adds 1 new machine: the dye bench
+增加1种机器:染色器
 
-adds 16 new items: pigments
+增加16种物品:染料
 
 
-pigments are reusable items that can dye items in the dye bench
+染料可以重复使用于染色器中为物品染色
