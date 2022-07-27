@@ -44,8 +44,8 @@ public class DyeBenchItems {
     public static final SlimefunItemStack JC_RED_PIGMENT = new SlimefunItemStack("JC_RED_PIGMENT", Material.RED_DYE, "&d红色染料", "", "&f一个能重复使用的染料", "");
     public static final SlimefunItemStack JC_BLACK_PIGMENT = new SlimefunItemStack("JC_BLACK_PIGMENT", Material.BLACK_DYE, "&f黑色染料", "", "&f一个能重复使用的染料", "");
     //Dyeable Blocks
-    public static final SlimefunItemStack JC_DYEABLE_WOOL = new SlimefunItemStack("JC_DYEABLE_WOOL", Material.WHITE_WOOL, "&fWool",
-            "&f you can dye wool in the following colors",
+    public static final SlimefunItemStack JC_DYEABLE_WOOL = new SlimefunItemStack("JC_DYEABLE_WOOL", Material.WHITE_WOOL, "&f羊毛",
+            "&f 您可以将羊毛染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
@@ -62,7 +62,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_CARPET = new SlimefunItemStack("JC_DYEABLE_CARPET", Material.WHITE_CARPET, "&fCARPET",
-            "&f you can dye carpet in the following colors",
+            "&f 您可以将地毯染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
@@ -79,7 +79,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_CANDLES = new SlimefunItemStack("JC_DYEABLE_CANDLES", Material.CANDLE, "&fCandles",
-            "&f you can dye candles in the following colors",
+            "&f 您可以将蜡烛染成以下颜色",
             "&fWhite",
             "&6Orange",
             "&dMagenta",
@@ -97,7 +97,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_GLASS = new SlimefunItemStack("JC_DYEABLE_GLASS", Material.GLASS, "&fGlass",
-            "&f you can dye Glass in the following colors",
+            "&f 您可以将玻璃染成以下颜色",
             "&fWhite",
             "&6Orange",
             "&dMagenta",
@@ -115,7 +115,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_GLASS_PANES = new SlimefunItemStack("JC_DYEABLE_GLASS_PANES", Material.GLASS_PANE, "&fGlass pane",
-            "&f you can dye Glass panes in the following colors",
+            "&f 您可以将玻璃板染成以下颜色",
             "&fWhite",
             "&6Orange",
             "&dMagenta",
@@ -133,7 +133,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_TERRACOTTA = new SlimefunItemStack("JC_DYEABLE_TERRACOTTA", Material.TERRACOTTA, "&fTerracotta",
-            "&f you can dye Terracotta in the following colors",
+            "&f 您可以将兵马俑染成以下颜色",
             "&fWhite",
             "&6Orange",
             "&dMagenta",
@@ -151,7 +151,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_GLAZED_TERRACOTTA = new SlimefunItemStack("JC_DYEABLE_GLAZED_TERRACOTTA", Material.WHITE_GLAZED_TERRACOTTA, "&fGlazed Terracotta",
-            "&f you can dye Glazed terracotta in the following colors",
+            "&f 您可以将釉面陶土染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
@@ -168,7 +168,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_SHULKER_BOXES = new SlimefunItemStack("JC_DYEABLE_SHULKER_BOXES", Material.SHULKER_BOX, "&fShulker Box",
-            "&f you can dye Shulker boxes in the following colors",
+            "&f 你可以将潜影盒染成以下颜色",
             "&fWhite",
             "&6Orange",
             "&dMagenta",
@@ -186,7 +186,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_CONCRETE_POWDER = new SlimefunItemStack("JC_DYEABLE_CONCRETE_POWDER", Material.WHITE_CONCRETE_POWDER, "&fConcrete Powder",
-            "&f you can dye Concrete powder in the following colors",
+            "&f 您可以将混凝土粉末染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
@@ -203,7 +203,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_CONCRETE = new SlimefunItemStack("JC_DYEABLE_CONCRETE", Material.WHITE_CONCRETE, "&fConcrete",
-            "&f you can dye Concrete in the following colors",
+            "&f 您可以将混凝土染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
@@ -220,7 +220,7 @@ public class DyeBenchItems {
             "&4Red",
             "&0Black");
     public static final SlimefunItemStack JC_DYEABLE_BEDS = new SlimefunItemStack("JC_DYEABLE_BEDS", Material.WHITE_BED, "&fBeds",
-            "&f you can dye Beds in the following colors",
+            "&f 您可以将床染成以下颜色",
             "&6Orange",
             "&dMagenta",
             "&bLight Blue",
